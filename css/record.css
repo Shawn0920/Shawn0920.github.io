@@ -1,0 +1,58 @@
+*{margin: 0;padding: 0;}
+.title_bar{
+	background-color: #eeeeee;
+	height: 60px;
+	line-height: 60px;
+}
+.title_bar_back{
+	width: 4vw;
+	margin-left: 2vw;
+	vertical-align: middle;
+}
+.title_bar_title{
+	vertical-align: middle;
+	display: inline-block;
+	width: 85vw;
+	text-align: center;
+}
+.surplus_text{
+	text-align: center;
+	color: #498fe1;
+	font-size: 18px;
+	margin-top:15vw;
+}
+.surplus_text_number{
+	margin: 5px;
+	border-radius: 5px;
+	background: #4a90e2;
+	color: #fff;
+	display: inline-block;
+	width: 7vw;
+	height: 7vw;
+}
+.surplus_text_gray{
+	margin-top: 1vw;
+	text-align: center;
+	color: #a0a0a0;
+	font-size: 14px;
+}
+.record_bottom{
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+}
+.record_list{
+	margin-top: 5vw;
+}
+.record_item{
+	width: 100vw;
+	padding: 5vw;
+	border-bottom: 1px solid #bdbdbd;
+}
+.item_title{
+	color: #333333;
+}
+.item_desc{
+	color: #bdbdbd;
+	margin-top: 1vw;
+}

@@ -1,0 +1,83 @@
+*{margin: 0;padding: 0;}
+.item{
+	background: url("../img/item_bg.png");
+	background-size: 100% auto;
+	width: 100%;
+	height: 57.6vw;
+	margin-top: 30px;
+	position: relative;
+}
+.title_bar{
+	background-color: #eeeeee;
+	height: 60px;
+	text-align: center;
+	line-height: 60px;
+}
+.item_title{
+	color: #fff;
+	text-align: center;
+	padding-top: 25vw;
+	font-size: 22px;
+}
+.item_img{
+	width: 25vw;
+	position: absolute;
+	right: 0;
+	top: 15vw;
+}
+.motai{
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(0,0,0,0.7);
+	display: block;
+}
+.dialog{
+	background: url("../img/dialog_bg.png");
+	background-size: 100% auto;
+    width: 65vw;
+    height: 62.5vw;
+    margin: 50vw auto;
+    position: relative;
+}
+.dialog_close{
+	width: 8vw;
+	height: 8vw; 
+	float: right; 
+	margin-right: 3vw;
+	margin-top: 3vw;
+}
+.dialog_number{
+	color: #2070cd;
+	font-size: 48px;
+	text-align: center;
+	padding-top: 12vw;
+}
+.dialog_btn{
+	text-align: center;
+	border-radius: 20px;
+	background: #4a90e2;
+	color: #fff;
+	padding-top: 2vw;
+	display: inline-block;
+	width: 25vw;
+	height: 8vw;
+	position: absolute;
+	bottom: 5vw;
+	left: 20vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
